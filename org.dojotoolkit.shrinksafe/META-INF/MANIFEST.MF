@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Shrinksafe
+Bundle-SymbolicName: org.dojotoolkit.shrinksafe
+Bundle-Version: 1.0.1
+Bundle-ClassPath: shrinksafe.jar
+Export-Package: org.dojotoolkit.shrinksafe;version="1.0.1"
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Import-Package: org.mozilla.javascript,
+ org.mozilla.javascript.ast,
+ org.mozilla.javascript.tools,
+ org.mozilla.javascript.tools.shell
