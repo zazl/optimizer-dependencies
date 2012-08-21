@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Json
-Bundle-SymbolicName: org.json
+Bundle-SymbolicName: org.json.js
 Bundle-Version: 1.0.0
