@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Closure
+Bundle-SymbolicName: com.google.javascript
+Bundle-Version: 2.1.8.0
+Bundle-ClassPath: compiler.jar
+Bundle-Vendor: Google
+Export-Package: com.google.javascript.jscomp,
+ com.google.javascript.jscomp.ant,
+ com.google.javascript.jscomp.deps,
+ com.google.javascript.jscomp.graph,
+ com.google.javascript.jscomp.parsing,
+ com.google.javascript.jscomp.regex,
+ com.google.javascript.jscomp.type
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
