@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Javascript
 Bundle-SymbolicName: org.mozilla.javascript
-Bundle-Version: 1.7.3
+Bundle-Version: 1.7.4
 Bundle-ClassPath: js.jar
 Export-Package: org.mozilla.classfile,
  org.mozilla.javascript,
